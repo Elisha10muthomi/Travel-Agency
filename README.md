@@ -261,4 +261,4 @@ For support inquiries:
 
 **Made with ❤️ for luxury travelers worldwide**
 
-[Report Bug](https://github.com/yourusername/Luxe-Voyage/issues) · [Request Feature](https://github.com/yourusername/Luxe-Voyage/issues)
+
